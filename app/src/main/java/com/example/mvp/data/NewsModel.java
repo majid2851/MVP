@@ -1,6 +1,6 @@
 package com.example.mvp.data;
 
-public class News
+public class NewsModel
 {
     private String id;
     private String title;
